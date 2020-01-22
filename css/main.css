@@ -1,0 +1,74 @@
+/* Assignment 1 | COMP1073 Client-Side JavaScript */
+/*import Inter, a good font*/
+@import url("https://rsms.me/inter/inter.css");
+body {
+  /*background is black*/
+  background-color: #000;
+}
+body main {
+  /*yellow 'book'*/
+  height: 100vh;
+  width: 90%;
+  margin: auto;
+  background-color: rgb(243, 234, 109);
+}
+body section {
+  /*Each section is flexed*/
+  display: flex;
+  justify-content: center;
+  font-weight: bolder;
+  font-family: "Inter", sans-serif;
+}
+button {
+  /*global button styles*/
+  -webkit-appearance: none;
+  margin: 5px;
+  border: 0;
+  border-radius: 20px;
+  font-weight: bolder;
+  font-family: "Inter", sans-serif;
+  width: 160px;
+  height: 60px;
+  outline: 0;
+}
+/*Button background colours*/
+#choice1 {
+  background-color: purple;
+}
+#choice2 {
+  background-color: cyan;
+}
+#choice3 {
+  background-color: lime;
+}
+#choice4 {
+  background-color: coral;
+}
+#choice5 {
+  background-color: palevioletred;
+}
+#speak {
+  background-color: teal;
+}
+#random {
+  background-color: crimson;
+}
+/*p size and spacing*/
+p {
+  height: 100px;
+  text-align: center;
+  margin-top: 40px;
+  font-size: 40px;
+}
+/*title size and spacing*/
+h1 {
+  margin: 10px;
+  margin-top: 40px;
+  font-size: 50px;
+}
+/*subtitle size and spacing*/
+h2 {
+  margin: 10px;
+  margin-bottom: 40px;
+  font-size: 30px;
+}
