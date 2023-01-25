@@ -13,7 +13,7 @@ let choiceWords = [
   ["The turkey", "Mom", "Dad", "The dog", "My Teacher", "The elephant", "The cat"],
   ["sat on", "ate", "danced with", "saw", "doesn't like", "kissed"],
   ["a funny", "a scary", "a goofy", "a funny", "a slimy", "a barking", "a fat"],
-  ["goat", "monkey", "fish", "cumstain", "frog", "bug", "worm"],
+  ["goat", "monkey", "fish", "cow", "frog", "bug", "worm"],
   ["on the moon.", "on the chair.", "in my spaghetti.", "in my soup.", "on the grass.", "in my shoes."]
 ];
 
