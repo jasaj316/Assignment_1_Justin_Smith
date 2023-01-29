@@ -45,31 +45,31 @@ button:hover {
 
 /*Button background colours*/
 #choice-1 {
-  background-color: mediumpurple;
+  background-color: rgb(156, 94, 214);
 }
 
 #choice-2 {
-  background-color: cyan;
+  background-color: rgb(1, 186, 211);
 }
 
 #choice-3 {
-  background-color: limegreen;
+  background-color: rgb(36, 189, 23);
 }
 
 #choice-4 {
-  background-color: coral;
+  background-color: rgb(248, 102, 49);
 }
 
 #choice-5 {
-  background-color: palevioletred;
+  background-color: rgb(233, 113, 153);
 }
 
 #speak {
-  background-color: teal;
+  background-color: rgb(7, 155, 106);
 }
 
 #random {
-  background-color: crimson;
+  background-color: rgb(247, 36, 54);
 }
 
 /*text size and spacing*/
